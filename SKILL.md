@@ -1,5 +1,5 @@
 ---
-name: "prisma-next"
+name: "prisma-prisma-next"
 description: "Prisma Next is a contract-first TypeScript rewrite of Prisma ORM supporting PostgreSQL and MongoDB. Load this skill for tasks like: authoring or editing a Prisma Next contract (models/fields/relations), running the `prisma-next` CLI (contract emit, db init/update/verify/sign, migration plan/show/status/check, migrate, ref), wiring `prisma-next.config.ts`, and writing queries against a Prisma Next database via the SQL query builder or the ORM `Collection` client."
 ---
 
